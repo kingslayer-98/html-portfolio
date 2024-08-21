@@ -1,3 +1,3 @@
 # html-portfolio
 
-This is were I practice to developing web pages. 
+This is where I practice to developing web pages. 
